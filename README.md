@@ -4,3 +4,7 @@ Igor Pablo da Silva Freitas - 03220292
 Isabela Zanotto Monteiro - 03212070
 
 Turma: UNN0790104NNA
+
+
+
+# Executar 'main.py'
